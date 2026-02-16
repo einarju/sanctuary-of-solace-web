@@ -762,8 +762,8 @@ img{ max-width:100%; display:block; }
   padding-top: 20px;
 }
 .hero-logo{
-  width: 1020px;  /* Much bigger! */
-  max-width: 90%;  /* Responsive */
+  width: 1275px;  /* Much bigger! */
+  max-width: 100%;  /* Responsive */
   height: auto;  /* Natural height */
   margin: 0 auto;
   display: block;
