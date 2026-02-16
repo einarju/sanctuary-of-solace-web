@@ -768,7 +768,7 @@ img{ max-width:100%; display:block; }
   margin: 0 auto;
   display: block;
 }
-@media (max-width: 768px){
+@media (max-width: 1068px){
   .hero-logo{
     width: 320px;  /* Bigger on mobile */
     max-width: 80%;
