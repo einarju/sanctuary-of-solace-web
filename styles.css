@@ -804,16 +804,16 @@ img{ max-width:100%; display:block; }
   width: 100vw;
 }
 .hero-logo{
-  width: 800px;  /* Much bigger! */
-  max-width: 80%;  /* 80% of viewport width */
+  width: 1600px;  /* Much bigger! */
+  max-width: 100%;  /* 80% of viewport width */
   height: auto;  /* Natural height */
   margin: 0 auto;
   display: block;
 }
-@media (max-width: 768px){
+@media (max-width: 1280px){
   .hero-logo{
-    width: 600px;  /* Bigger on mobile */
-    max-width: 85%;
+    width: 1280px;  /* Bigger on mobile */
+    max-width: 100%;
     height: auto;
   }
 }
