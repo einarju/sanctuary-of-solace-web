@@ -214,7 +214,7 @@ img{ max-width:100%; display:block; }
 
 .hero-logo{
   width: 100%;
-  max-width: 600px;
+  max-width: 800px;
   height: auto;
   display: block;
 }
@@ -739,7 +739,7 @@ img{ max-width:100%; display:block; }
   
   .hero-logo{
     width: 100%;
-    max-width: 100%;
+    max-width:800px;
     height: auto;
   }
   
