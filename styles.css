@@ -718,12 +718,12 @@ img{ max-width:100%; display:block; }
   }
 }
 
-@media (max-width: 768px){
+@media (max-width: 1068px){
   /* Mobile: logo first, photo second, text third */
   .hero-inner{
     display: flex;
     flex-direction: column;
-    gap: 30px;
+    gap: 10px;
   }
   
   .hero-text{
