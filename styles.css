@@ -797,7 +797,7 @@ img{ max-width:100%; display:block; }
   padding-top: 20px;
 }
 .hero-logo{
-  width: 1050px;  /* Much bigger! */
+  width: 1550px;  /* Much bigger! */
   max-width: 90%;  /* Responsive */
   height: auto;  /* Natural height */
   margin: 0 auto;
@@ -805,7 +805,7 @@ img{ max-width:100%; display:block; }
 }
 @media (max-width: 768px){
   .hero-logo{
-    width: 860px;  /* Bigger on mobile */
+    width: 1060px;  /* Bigger on mobile */
     max-width: 90%;
     height: auto;
   }
