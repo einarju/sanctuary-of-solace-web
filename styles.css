@@ -757,15 +757,15 @@ img{ max-width:100%; display:block; }
   }
   
   .hero-logo-wrapper{
-    order: -3; /* Logo absolute first */
-    margin: 0 calc(-4vw);
+    order: -3;
+    margin: 0 auto;
     text-align: center;
-    width: calc(100% + 8vw);
+    width: 100%;
     padding: 0;
-  }
+}
   
   .hero-logo{
-    width: 100% !important;
+    width: 150% !important;
     max-width: 150% !important;
     height: auto;
     margin: 0 auto;
