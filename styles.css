@@ -765,7 +765,7 @@ img{ max-width:100%; display:block; }
   }
   
   .hero-logo{
-    width: 150% !important;
+    width: 100% !important;
     max-width: 150% !important;
     height: auto;
     margin: 0 auto;
